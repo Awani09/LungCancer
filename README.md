@@ -10,7 +10,7 @@ Lung cancer is one of the leading causes of death worldwide. Early detection pla
   - Numerical/Binary Features:  
     - Lifestyle Factors: `SMOKING`, `ALCOHOL CONSUMING`, `PEER_PRESSURE`  
     - Medical Symptoms: `YELLOW_FINGERS`, `ANXIETY`, `WHEEZING`, `COUGHING`, `CHEST PAIN`, etc.  
-- **Target Variable: `LUNG_CANCER` (Binary classification: "YES" or "NO")  
+- Target Variable: `LUNG_CANCER` (Binary classification: "YES" or "NO")  
 
 2. Data Preprocessing  
 Before training the models, we perform:  
